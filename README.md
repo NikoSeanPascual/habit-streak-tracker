@@ -42,8 +42,3 @@ The application is fully local, lightweight, and focuses on **correct streak log
 ### Local Data Persistence
 - All data stored in a human-readable **JSON file**
 - No accounts, no cloud, no external dependencies
-
----
-
-## Project Structure
-
